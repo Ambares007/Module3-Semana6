@@ -1,0 +1,19 @@
+La importancia de que las plataformas tecnológicas reciban información ciudadana de manera 
+estructurada, como el formato JSON, radica en que este estándar funciona como un 
+"idioma común" que permite a los sistemas procesar datos de forma eficiente, precisa y 
+automática. Al exigir una estructura basada en claves y valores, el servidor no tiene que r
+ealizar un esfuerzo interpretativo complejo para entender qué está reportando el ciudadano; 
+en su lugar, puede identificar y extraer automáticamente los elementos clave, como el tipo d
+e incidencia, la ubicación o la descripción, permitiendo que el sistema responda, clasifique 
+o redirija la información en milisegundos. Esta automatización es vital para la 
+escalabilidad, ya que permite gestionar miles de reportes simultáneos sin intervención 
+humana constante, eliminando los errores de transcripción o interpretación que ocurren en 
+procesos manuales. Además, los datos estructurados son la materia prima fundamental 
+para la inteligencia operativa: al ser consistentes, permiten realizar análisis 
+estadísticos, identificar patrones y tomar decisiones basadas en evidencia —como entender 
+qué zonas de una ciudad necesitan más atención—, algo que sería prácticamente imposible c
+on información libre o desorganizada. En última instancia, la estructura permite que las 
+plataformas se conecten entre sí, funcionando como un engranaje donde la información 
+puede fluir de manera transparente y segura entre diferentes instituciones, garantizando q
+ue el reporte del ciudadano se convierta en una acción concreta de mejora en el menor tiempo 
+posible.
