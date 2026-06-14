@@ -1,1 +1,6 @@
 touch prueba-api.txt
+Cuando se ingresa en comando "touch prueba-api.txt". 
+En automático se crea en la terminal la lectura y comprensión del comando ingresado.
+Posteriormente, all lado izquierdo superior, se crea la subcarpeta o archivo de "prueba api.txt" o su lectura. 
+Lo abre y deja ver un punto verde al su lado. 
+Cabe aclarar que previamente no se veía este archivo creado en esa zona. 
